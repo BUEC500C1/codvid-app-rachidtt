@@ -1,0 +1,19 @@
+{
+  "name": "codvid-app-rachidtt",
+  "version": "1.0.0",
+  "description": "Step 1:  Setup your REACT Native Environment\r Please note:  If you have an iOS device, you need a Mac computer.  If you don’t have a Mac, \r Step 2:  Go through REACT native Tutorial\r Build Hello Applications\r Run Hello applications on emulator and your phone.\r It will be great to run it on two phones if you can (iOS and Android)\r Step 3:  Develop use case to display a map.  (GitHub location)\r Step 4:  On separate branch, exercise the CODVID-19 API (Documentation using postman) and display the data in your application as text.  Be fancy!  Style your results.\r Step 5:  Overlay the data on the maps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BUEC500C1/codvid-app-rachidtt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BUEC500C1/codvid-app-rachidtt/issues"
+  },
+  "homepage": "https://github.com/BUEC500C1/codvid-app-rachidtt#readme"
+}
