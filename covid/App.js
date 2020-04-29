@@ -7,19 +7,21 @@ import {fetchData} from './src/api';
 import {StackNavigator} from 'react-navigation';
 
 
-
-
+/*
+//Step2: Hello world:
 export default function App() {
+
+  var test= 5
   return (
     <View style={styles.container}>
       <Text>HELLO WORLD COVIDAPP RACHIDTT</Text>
     </View>
   );
 }
+*/
 
 
-
-
+//step 3: Map display
 /*export default class App extends React.Component {
   async componentDidMount(){
     const data = await fetchData();
@@ -33,6 +35,20 @@ export default function App() {
     );
   }
 }*/
+
+
+//Step4: API:
+export default function App() {
+
+  var test= 5;
+  
+
+  return (
+    <View style={styles.container}>
+      <Text>Hello {test}</Text>
+    </View>
+  );
+}
 
 
 const styles = StyleSheet.create({
