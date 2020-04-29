@@ -12,6 +12,8 @@ It will be great to run it on two phones if you can (iOS and Android)
 # Step 3:  Develop use case to display a map.  (GitHub location)
 
 I have used react-native-maps to display a map on the app:
+
+
 <img src=mapscreenshot.png width="40%">
 
 
