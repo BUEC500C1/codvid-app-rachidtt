@@ -8,23 +8,32 @@ import {StackNavigator} from 'react-navigation';
 
 
 
-export default class App extends React.Component {
 
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <Text>HELLO WORLD COVIDAPP RACHIDTT</Text>
+    </View>
+  );
+}
+
+
+
+
+/*export default class App extends React.Component {
   async componentDidMount(){
     const data = await fetchData();
     console.log()
   }
-
-
   render() {
     return (
       <View style={styles.container}>
         <MapView style={styles.mapStyle} />
       </View>
     );
-
   }
-}
+}*/
+
 
 const styles = StyleSheet.create({
   container: {
