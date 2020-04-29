@@ -6,20 +6,16 @@ In the covid directory:
 -`a`  for android emulator  
 
 
-
-
-
-# Step 2:  Go through REACT native Tutorial
+## Step 2:  Go through REACT native Tutorial
 Built Hello Applications
 Run Hello applications on emulator and your phone.
-It will be great to run it on two phones if you can (iOS and Android)
+
 
 <img src="https://github.com/BUEC500C1/codvid-app-rachidtt/blob/master/images/helloscreenshot.png" width="200" height="400" />
 
 ## Step 3:  Develop use case to display a map.  (GitHub location)
 
-I have used react-native-maps to display a map on the app:
-
+I have used react-native-maps to display a map on the app:  
 
 <img src="https://github.com/BUEC500C1/codvid-app-rachidtt/blob/master/images/mapscreenshot.png" width="200" height="400" />
 
