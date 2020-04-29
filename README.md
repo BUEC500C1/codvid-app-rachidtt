@@ -9,10 +9,10 @@ Built Hello Applications
 Run Hello applications on emulator and your phone.
 It will be great to run it on two phones if you can (iOS and Android)
 
-#Step 3:  Develop use case to display a map.  (GitHub location)
+# Step 3:  Develop use case to display a map.  (GitHub location)
 
 I have used react-native-maps to display a map on the app:
-![Image of Map on the app](mapscreenshot.png)
+![Image of Map on the app](mapscreenshot.png = 250*250)
 
 
 
