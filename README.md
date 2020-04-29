@@ -22,7 +22,8 @@ I have used react-native-maps to display a map on the app:
 
 
 ## Step 4:  On separate branch, exercise the CODVID-19 API and display the data in your application as text
-Example of successfully calling the api: Showing Country name and NewDeaths for all countries:
+Example of successfully calling the api: Showing Country name and NewDeaths for all countries:  
+
 <img src="https://github.com/BUEC500C1/codvid-app-rachidtt/blob/master/images/step4.png" width="200" height="400" />
 
 
