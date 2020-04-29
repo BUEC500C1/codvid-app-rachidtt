@@ -1,11 +1,12 @@
 ## Set up:
-In the covid directory:
+I have an iOS device and windows, so I will be using an android emulator  
+In the covid directory:  
 -Launch android studio and start emulator  
 -`expo start`  
 -`a`  for android emulator  
 
 
-I have an iOS device and windows, so I will be using an android emulator
+
 
 
 Step 2:  Go through REACT native Tutorial
