@@ -1,4 +1,5 @@
 ## Set up:
+In the covid directory:
 -Launch android studio and start emulator  
 -`expo start`  
 -`a`  for android emulator  
